@@ -15,13 +15,13 @@ We propose a novel guided diffusion scheme with zero-shot guidance and neural sp
 - **Zero-Shot Guidance:**
 
 <div align="center">
-<img src=https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/cvpr_3.png width=80% alt="ipi2"> 
+<img src=https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/cvpr_3.png width=50% alt="ipi2"> 
 </div>
 
 - **NSSD:**
 
 <div align="center">
-<img src=https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/cvpr_2.png width=80% alt="ipi2"> 
+<img src=https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/cvpr_2.png width=60% alt="ipi2"> 
 </div>
 
 # Detailed code is coming soon!
