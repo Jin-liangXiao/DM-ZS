@@ -5,14 +5,20 @@
 **My Homepage:** https://jin-liangxiao.github.io/
 
 # Main results
-
-- **Constraint comparison of different approaches**
+We propose a novel guided diffusion scheme with zero-shot guidance and neural spatial-spectral decomposition (NSSD) to iteratively generate an RGB spatial detail image and map the detail image to the target HR-HSI.
+- **Framework:**
 
 <div align="center">
-<img src=https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/framework.pdf width=60% alt="ipi1"> 
+<img src=https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/cvpr_1.png width=60% alt="ipi1"> 
 </div>
 
-- **The sparsity of singular values of X is effectively enhanced by the adaptive transformation.**
+- **Zero-Shot Guidance:**
+
+<div align="center">
+<img src=https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/cvpr_3.png width=80% alt="ipi2"> 
+</div>
+
+- **NSSD:**
 
 <div align="center">
 <img src=https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/cvpr_2.png width=80% alt="ipi2"> 
