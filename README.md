@@ -1,5 +1,5 @@
 # [CVPR2025] Hyperspectral Pansharpening via Diffusion Models with Iteratively Zero-Shot Guidance
-[Jin-Liang Xiao](https://jin-liangxiao.github.io/), Ting-Zhu Huang*, [Liang-Jian Deng](https://liangjiandeng.github.io/)*, Guang Lin, Zihan Cao, Chao Li, [Qibin Zhao](https://qibinzhao.github.io/)
+[Jin-Liang Xiao](https://jin-liangxiao.github.io/), Ting-Zhu Huang*, [Liang-Jian Deng](https://liangjiandeng.github.io/), Guang Lin, Zihan Cao, Chao Li, [Qibin Zhao](https://qibinzhao.github.io/)*
 
 
 **My Homepage:** https://jin-liangxiao.github.io/
