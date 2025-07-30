@@ -29,8 +29,16 @@ Before running ``Demo_main.py``， please download the pretrained diffusion mode
 
 This code is based on the [PLRDiff](https://github.com/earth-insights/PLRDiff), [HIR-Diff](https://github.com/LiPang/HIRDiff). Thanks for their awesome works!
 
-- **Data**
-
+# Citation
+```bibtex
+@inproceedings{xiao2025hyperspectral,
+  title={Hyperspectral Pansharpening via Diffusion Models with Iteratively Zero-Shot Guidance},
+  author={Xiao, Jin-Liang and Huang, Ting-Zhu and Deng, Liang-Jian and Lin, Guang and Cao, Zihan and Li, Chao and Zhao, Qibin},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={12669--12678},
+  year={2025}
+}
+```
 
 # Contact
-If you have any questions, please feel free to contact me via <p>jinliang_xiao@163.com<p>
+If you have any questions, please feel free to contact me via ``jinliang_xiao@163.com``
