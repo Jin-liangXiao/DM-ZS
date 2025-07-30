@@ -24,4 +24,13 @@ We propose a novel guided diffusion scheme with zero-shot guidance and neural sp
 <img src=https://github.com/Jin-liangXiao/Jin-liangXiao.github.io/blob/main/assets/img/cvpr_2.png width=60% alt="ipi2"> 
 </div>
 
-# Detailed code is coming soon!
+# Download the pretrained diffusion model and run
+Before running ``Demo_main.py``， please download the pretrained diffusion model [I190000_E97_gen.pth](https://www.dropbox.com/sh/z6k5ixlhkpwgzt5/AAApBOGEUhHa4qZon0MxUfmua?dl=0) provided by [ddpm-cd](https://github.com/wgcban/ddpm-cd) and put the model into *./guide_weights*
+
+This code is based on the [PLRDiff](https://github.com/earth-insights/PLRDiff), [HIR-Diff](https://github.com/LiPang/HIRDiff). Thanks for their awesome works!
+
+- **Data**
+
+
+# Contact
+If you have any questions, please feel free to contact me via <p>jinliang_xiao@163.com<p>
