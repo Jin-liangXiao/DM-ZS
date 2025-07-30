@@ -1,6 +1,7 @@
 # [CVPR2025] Hyperspectral Pansharpening via Diffusion Models with Iteratively Zero-Shot Guidance
-[Jin-Liang Xiao](https://jin-liangxiao.github.io/), Ting-Zhu Huang*, [Liang-Jian Deng](https://liangjiandeng.github.io/), Guang Lin, Zihan Cao, Chao Li, [Qibin Zhao](https://qibinzhao.github.io/)*
+[Jin-Liang Xiao](https://jin-liangxiao.github.io/), Ting-Zhu Huang*, [Liang-Jian Deng](https://liangjiandeng.github.io/), Guang Lin, Zihan Cao, [Chao Li](https://chaoliatriken.github.io/), [Qibin Zhao](https://qibinzhao.github.io/)*
 
+**Paper:** [DM-ZS](https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_Hyperspectral_Pansharpening_via_Diffusion_Models_with_Iteratively_Zero-Shot_Guidance_CVPR_2025_paper.pdf)
 
 **My Homepage:** https://jin-liangxiao.github.io/
 
@@ -27,7 +28,7 @@ We propose a novel guided diffusion scheme with zero-shot guidance and neural sp
 # Download the pretrained diffusion model and run
 Before running ``Demo_main.py``， please download the pretrained diffusion model [I190000_E97_gen.pth](https://www.dropbox.com/sh/z6k5ixlhkpwgzt5/AAApBOGEUhHa4qZon0MxUfmua?dl=0) provided by [ddpm-cd](https://github.com/wgcban/ddpm-cd) and put the model into *./guide_weights*
 
-This code is based on the [PLRDiff](https://github.com/earth-insights/PLRDiff), [HIR-Diff](https://github.com/LiPang/HIRDiff). Thanks for their awesome works!
+This code is based on the [PLRDiff](https://github.com/earth-insights/PLRDiff), [HIR-Diff](https://github.com/LiPang/HIRDiff), and [ZSL](https://github.com/renweidian/ZSL). Thanks for their awesome works!
 
 # Citation
 ```bibtex
