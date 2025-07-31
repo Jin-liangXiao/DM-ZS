@@ -1,0 +1,8 @@
+h5py==3.12.1
+h5py==3.9.0
+numpy==1.25.2
+opencv_python==4.8.0.76
+torch==2.0.0+cu118
+torchvision==0.15.2+cu118
+tqdm==4.66.5
+tqdm==4.66.6
