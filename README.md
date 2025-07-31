@@ -26,7 +26,10 @@ We propose a novel guided diffusion scheme with zero-shot guidance and neural sp
 </div>
 
 # Download the pretrained diffusion model and run
-Before running ``Demo_main.py``， please download the pretrained diffusion model [I190000_E97_gen.pth](https://www.dropbox.com/sh/z6k5ixlhkpwgzt5/AAApBOGEUhHa4qZon0MxUfmua?dl=0) provided by [ddpm-cd](https://github.com/wgcban/ddpm-cd) and put the model into *./guide_weights*
+Before running ``Demo_main.py``， please download the pretrained diffusion model [I190000_E97_gen.pth](https://www.dropbox.com/sh/z6k5ixlhkpwgzt5/AAApBOGEUhHa4qZon0MxUfmua?dl=0) provided by [ddpm-cd](https://github.com/wgcban/ddpm-cd) and put the model into *./dm_weights*
+
+**zero-shot guidance**
+Please run ``guide_hyperpan.py`` to train the zero-shot network.
 
 This code is based on the [PLRDiff](https://github.com/earth-insights/PLRDiff), [HIR-Diff](https://github.com/LiPang/HIRDiff), and [ZSL](https://github.com/renweidian/ZSL). Thanks for their awesome works!
 
