@@ -32,7 +32,7 @@ Before running ``Demo_main.py``， please download the pretrained diffusion mode
 
 If you need to calculate other data, please run ``guide_hyperpan.py`` to train the zero-shot network in advance.
 
-This code is based on the [PLRDiff](https://github.com/earth-insights/PLRDiff), [HIR-Diff](https://github.com/LiPang/HIRDiff), and [ZSL](https://github.com/renweidian/ZSL). Thanks for their awesome works!
+
 
 # Citation
 ```bibtex
@@ -46,4 +46,7 @@ This code is based on the [PLRDiff](https://github.com/earth-insights/PLRDiff), 
 ```
 
 # Contact
+
+This code is based on the [PLRDiff](https://github.com/earth-insights/PLRDiff), [HIR-Diff](https://github.com/LiPang/HIRDiff), and [ZSL](https://github.com/renweidian/ZSL). Thanks for their awesome works!
+
 If you have any questions, please feel free to contact me via ``jinliang_xiao@163.com``
